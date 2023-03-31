@@ -1,6 +1,6 @@
 Name:		texlive-components
 Version:	63184
-Release:	1
+Release:	2
 Summary:	Components of TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/components
