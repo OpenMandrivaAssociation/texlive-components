@@ -3,7 +3,7 @@ Version:	63184
 Release:	2
 Summary:	Components of TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/components
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/components
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/components.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/components.doc.r%{version}.tar.xz
